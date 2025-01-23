@@ -1,5 +1,4 @@
 # Tidally-Induced-Pulsation
-Here’s an updated version of the research methodology for your **README** file without the code, focusing entirely on the research steps and notes:
 
 ---
 
@@ -106,6 +105,3 @@ To validate the presence of tidal influence on stellar pulsations, the following
 ### **8. Conclusion**
 This methodology aims to directly validate the tidal influence of exoplanets on stellar pulsations using observational data from the TESS mission. By focusing on harmonic matching, amplitude, and phase stability, this approach complements theoretical studies and provides robust evidence for tidally excited pulsations. This approach is an essential step toward understanding the interaction between exoplanets and their host stars, without relying on theoretical models, by focusing entirely on observational data and its analysis.
 
----
-
-Let me know if you'd like any more details added or changes made!
