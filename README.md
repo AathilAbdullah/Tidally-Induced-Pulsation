@@ -1,7 +1,3 @@
-# Tidally-Induced-Pulsation
-
----
-
 # Research Methodology to Validate Tidal Influence of Exoplanets on Stellar Pulsations
 
 This methodology is designed to validate the tidal influence of exoplanets on host star pulsations using only **observational data** (e.g., TESS light curves) without relying on theoretical stellar models like MESA or GYRE.
@@ -104,4 +100,6 @@ To validate the presence of tidal influence on stellar pulsations, the following
 
 ### **8. Conclusion**
 This methodology aims to directly validate the tidal influence of exoplanets on stellar pulsations using observational data from the TESS mission. By focusing on harmonic matching, amplitude, and phase stability, this approach complements theoretical studies and provides robust evidence for tidally excited pulsations. This approach is an essential step toward understanding the interaction between exoplanets and their host stars, without relying on theoretical models, by focusing entirely on observational data and its analysis.
+
+---
 
